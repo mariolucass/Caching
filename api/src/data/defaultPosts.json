@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Exploring Next.js Caching Strategies",
+    "content": "A deep dive into various caching techniques for Next.js applications."
+  },
+  {
+    "title": "Prisma ORM: A Developer's Guide",
+    "content": "Learn how to build efficient database applications using Prisma."
+  },
+  {
+    "title": "Scaling Express APIs with Redis",
+    "content": "Strategies for optimizing Express API performance using Redis caching."
+  },
+  {
+    "title": "The Power of React Hooks",
+    "content": "Mastering custom hooks to build reusable and maintainable React components."
+  },
+  {
+    "title": "Building a Full-Stack App with Next.js, Prisma, and Express",
+    "content": "A step-by-step tutorial for creating a modern web application."
+  },
+  {
+    "title": "Understanding RESTful API Design",
+    "content": "Best practices for designing RESTful APIs for your applications."
+  },
+  {
+    "title": "Testing Next.js Applications",
+    "content": "Learn how to write effective tests for your Next.js components and APIs."
+  },
+  {
+    "title": "Deploying Next.js to Vercel",
+    "content": "A guide to deploying your Next.js app on the Vercel platform."
+  },
+  {
+    "title": "Advanced Prisma Techniques",
+    "content": "Dive deeper into Prisma with advanced queries, mutations, and relations."
+  },
+  {
+    "title": "Authentication and Authorization in Express",
+    "content": "Secure your Express APIs with authentication and authorization mechanisms."
+  },
+  {
+    "title": "Real-time Updates with WebSockets",
+    "content": "Explore how to add real-time features to your web apps using WebSockets."
+  },
+  {
+    "title": "Serverless Architecture with Next.js and AWS Lambda",
+    "content": "Build scalable and cost-effective applications using serverless technology."
+  },
+  {
+    "title": "GraphQL vs. REST: Choosing the Right Approach",
+    "content": "Compare and contrast GraphQL and REST to determine the best fit for your project."
+  },
+  {
+    "title": "Progressive Web Apps (PWAs) with Next.js",
+    "content": "Create fast and reliable PWAs that work offline using Next.js."
+  },
+  {
+    "title": "Performance Optimization in Next.js",
+    "content": "Tips and tricks for making your Next.js applications faster and more efficient."
+  }
+]
